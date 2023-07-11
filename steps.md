@@ -14,3 +14,6 @@ now that we created all the file will include in index.js file to clean code.
 creating bigger components 
 
 #### now steps to the designing => cssDesignmd
+
+### Now working with the Navbar: 
+we will import assests  
