@@ -1,10 +1,12 @@
 import React from 'react'
 import './brand.css';
+import { google,atlassian,dropbox,shopify } from './imports';
 
 function Brand() {
   return (
-    
-    <div>ArticalBrand</div>
+    <div className='gpt3__brand__p'>ArticalBrand
+
+    </div>
   )
   
 }

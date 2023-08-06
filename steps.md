@@ -17,3 +17,5 @@ creating bigger components
 
 ### Now working with the Navbar: 
 we will import assests  
+### header 
+### Brand
