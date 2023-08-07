@@ -21,4 +21,9 @@ we will import assests
 ### header 
 ### Brand
 ### WhatGPT3
+### Feature
+inside feature we destructured title and text so we will reuse it in our next component <br>
+so go to the App.js inside of there the next component is features
+### Features
+
 
