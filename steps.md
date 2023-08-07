@@ -14,6 +14,7 @@ now that we created all the file will include in index.js file to clean code.
 creating bigger components 
 
 #### now steps to the designing => cssDesignmd
+the designs we are getting all are in the App.css file. There gradient styling, color of the text all are there.  
 
 ### Now working with the Navbar: 
 we will import assests  
