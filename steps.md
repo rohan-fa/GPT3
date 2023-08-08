@@ -27,6 +27,9 @@ so go to the App.js inside of there the next component is features
 ### Features
 ### possibility or openAI
 ### CTA (click to action)
+### blog (inside of here we need artical that means image blocks)technically Article is a blog so both are interco related
+
+
 
 
 
