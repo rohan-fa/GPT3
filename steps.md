@@ -25,5 +25,8 @@ we will import assests
 inside feature we destructured title and text so we will reuse it in our next component <br>
 so go to the App.js inside of there the next component is features
 ### Features
+### possibility or openAI
+### CTA (click to action)
+
 
 
