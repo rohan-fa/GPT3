@@ -1,5 +1,5 @@
 # Modern UI/UX GPT-3
-### [Live Site](https://gpt3-jsm.com/)
+### [Live Site]()
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
