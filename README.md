@@ -1,5 +1,5 @@
 # Modern UI/UX GPT-3
-### [Live Site]()
+### [Live Site](https://ux-gpt3.netlify.app/)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
